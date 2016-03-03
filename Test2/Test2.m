@@ -10,6 +10,6 @@
 
 @implementation Test2
 - (void)test {
-    NSLog(@"test1");
+    NSLog(@"test2");
 }
 @end

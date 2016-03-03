@@ -8,7 +8,7 @@ Pod::Spec.new do |spec|
 
   spec.platform = :ios, "8.0"
   spec.requires_arc = true
-  spec.source = {:git=> "https://github.com/silan-liu/Test1", :tag => spec.version }
-  spec.source_files = "Test2/*.{h,m}"
+  spec.source = {:git=> "https://github.com/silan-liu/Test1.git", :tag => spec.version }
+  spec.source_files = "Test2/Test2.{h,m}"
 
 end
